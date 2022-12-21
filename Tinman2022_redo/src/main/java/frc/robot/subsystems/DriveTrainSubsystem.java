@@ -34,6 +34,9 @@ public class DriveTrainSubsystem extends SubsystemBase {
      */
     //_drive.setRightSideInverted(false);
   }
+  public void PowerTalonl(double Power) {
+  tankDrive 
+  }
   @Override
 
   public void periodic() {
